@@ -20,4 +20,5 @@ I checked if my data was normally distributed or not using the "Shapiro-Wilk" te
 Discretization for the birth rate parameter was done based on the average number of births in a county in the United States. They are:
 * Less than the average number of births (<500)
 * More than the average number of births (>=500)
+
 I used linear regression model to fit the collected data with the selected parameters. Interaction effects between the birth rate parameter and the income parameter were evaluated as follows:
