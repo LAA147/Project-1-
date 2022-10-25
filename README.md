@@ -13,7 +13,10 @@ Using the collected data, the following questions can be framed:
 * 2. How did the covid 19 pandemic effect the number of births in each county?
 * 3. Were there less number of births in counties where there was less annual income, during the pandemic?
 
+
+
 The following figures represent the scatter plots of the data:
+
 ![download (1)](https://github.com/LAA147/Project-1-/blob/main/download%20(1).png)
 ![download (2)](https://github.com/LAA147/Project-1-/blob/main/download%20(2).png)
 ![download (3)](https://github.com/LAA147/Project-1-/blob/main/download%20(3).png)
@@ -48,7 +51,12 @@ I used linear regression model to fit the collected data with the selected param
 * New births dependence parameter : 1657.8
 * Income dependence parameter : -298.0007
 * Interaction slope : 6015.4272
+
+
+
 The following figure represents the interaction plot:
+
+
 ![download (7)](https://github.com/LAA147/Project-1-/blob/main/download%20(7).png)
 
 **Conclusions** - 
