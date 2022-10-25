@@ -15,13 +15,13 @@ Using the collected data, the following questions can be framed:
 
 
 
-The following figures represent the scatter plots of the data:
+**The following figures represent the scatter plots of the data:**
 
 ![download (1)](https://github.com/LAA147/Project-1-/blob/main/download%20(1).png)
 ![download (2)](https://github.com/LAA147/Project-1-/blob/main/download%20(2).png)
 ![download (3)](https://github.com/LAA147/Project-1-/blob/main/download%20(3).png)
 
-The followinf figures represent the bar plots of the collected data (county-wise):
+**The followinf figures represent the bar plots of the collected data (county-wise):**
 ![download (4)](https://github.com/LAA147/Project-1-/blob/main/download%20(4).png)
 ![download (5)](https://github.com/LAA147/Project-1-/blob/main/download%20(5).png)
 ![download (6)](https://github.com/LAA147/Project-1-/blob/main/download%20(6).png)
@@ -54,7 +54,7 @@ I used linear regression model to fit the collected data with the selected param
 
 
 
-The following figure represents the interaction plots of the discretized data:
+**The following figure represents the interaction plots of the discretized data:**
 
 
 ![download (7)](https://github.com/LAA147/Project-1-/blob/main/download%20(7).png)
