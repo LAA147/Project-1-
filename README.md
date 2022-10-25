@@ -2,7 +2,7 @@
 I worked with Oregon state data for my project. I wanted to analyze how different parameters were effected during the first year of the Covid-19 pandemic (2020). I picked per capita annual income and birth rate as my two parameters to compare with my Covid-19 data and check the differences. 
 
 I collected the following data sets:
-    1. SARS Covid-19 cases (2020 year)
+*1. SARS Covid-19 cases (2020 year)
     2. Number of births in each county (2020 year)
     3. Annual per capita income (2020 year)
 
