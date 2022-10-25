@@ -54,7 +54,7 @@ I used linear regression model to fit the collected data with the selected param
 
 
 
-The following figure represents the interaction plot:
+The following figure represents the interaction plots of the discretized data:
 
 
 ![download (7)](https://github.com/LAA147/Project-1-/blob/main/download%20(7).png)
