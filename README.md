@@ -13,6 +13,8 @@ Using the collected data, the following questions can be framed:
 * 2. How did the covid 19 pandemic effect the number of births in each county?
 * 3. Were there less number of births in counties where there was less annual income, during the pandemic?
 
+![download (1)](https://github.com/LAA147/Project-1-/blob/main/download%20(1).png)
+
 **Method** - 
 I checked if my data was normally distributed or not using the "Shapiro-Wilk" test. The alpha value obtained from the test is much less than 0.05. Hence I used U-test to compare my data for the first two questions. I discretized my paramerters to do the U-test with covid-19 data. Discretization for the Per-capita income parameter was done based on the two economic levels in the society. They are:
 * Lower-class - Per capita income < $48000
