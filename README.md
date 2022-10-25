@@ -10,4 +10,5 @@ Using the collected data, the following questions can be framed:
     1. How did the covid 19 pandemic effect the annual income in each county?
     2. How did the covid 19 pandemic effect the number of births in each county?
     3. Were there less number of births in counties where there was less annual income, during the pandemic?
-    
+
+I checked if my data was normally distributed or not using the "Shapiro-Wilk" test. The alpha value obtained from the test is much less than 0.05. Hence I used U-test to compare my data for the first two questions. I used linear regression model to fit the data 
