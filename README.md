@@ -21,10 +21,13 @@ Discretization for the birth rate parameter was done based on the average number
 * Less than the average number of births (<500)
 * More than the average number of births (>=500)
 
+
 **Results** -
+
 First U-test:
 Null Hypothesis - "More number of Covid-19 Cases in counties with less per capita income"
 * Result : p value = 0.176042
+
 Second U-test:
 Null Hypothesis - "More number of Covid-19 Cases in counties with less number of births"
 * Result : p value = 0.00000332
