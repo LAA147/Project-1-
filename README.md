@@ -21,12 +21,13 @@ Discretization for the birth rate parameter was done based on the average number
 * Less than the average number of births (<500)
 * More than the average number of births (>=500)
 
+**Results**
 First U-test:
 Null Hypothesis - "More number of Covid-19 Cases in counties with less per capita income"
-Result : p value = 0.176042
+* Result : p value = 0.176042
 Second U-test:
 Null Hypothesis - "More number of Covid-19 Cases in counties with less number of births"
-Result : p value = 0.00000332
+* Result : p value = 0.00000332
 
 
 I used linear regression model to fit the collected data with the selected parameters. Interaction effects between the birth rate parameter and the income parameter were evaluated as follows:
@@ -35,3 +36,9 @@ New births dependence parameter : 1657.8
 Income dependence parameter : -298.0007
 Interaction slope : 6015.4272
 
+**Conclusions**
+Both my null hypothesis should be rejected because of the obtained p-value. From the linear regression analysis, a positive dependence of births data is observed, a negative dependence of income data is observed and a positive dependence of their interaction is noted.
+
+
+**Next steps**
+For a better analysis/fit, a non-linear model can be used. Also, more data points can be incorporated to analyze the above mentioned parameters. For example, data from 2021, 2022 years can be collected and analyzed accordingly.
