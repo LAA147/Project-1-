@@ -1,6 +1,6 @@
 # Interpretation of Oregon State Data in 2020-
 **Introduction** - 
-I worked with Oregon state data for my project. I wanted to analyze how different parameters were effected during the first year of the Covid-19 pandemic (2020). I picked per capita annual income and birth rate as my two parameters to compare with my Covid-19 data and check the differences. 
+I worked with Oregon state data for my project. I wanted to analyze how different parameters were effected during the first year of the Covid-19 pandemic (2020). I picked per capita annual income and birth rate (county-wise) as my two parameters to compare with my Covid-19 data and check the differences. 
 
 **Data Collection** - 
 I collected the following data sets:
@@ -14,4 +14,10 @@ Using the collected data, the following questions can be framed:
 * 3. Were there less number of births in counties where there was less annual income, during the pandemic?
 
 **Method** - 
-I checked if my data was normally distributed or not using the "Shapiro-Wilk" test. The alpha value obtained from the test is much less than 0.05. Hence I used U-test to compare my data for the first two questions. I used linear regression model to fit the data 
+I checked if my data was normally distributed or not using the "Shapiro-Wilk" test. The alpha value obtained from the test is much less than 0.05. Hence I used U-test to compare my data for the first two questions. I discretized my paramerters to do the U-test with covid-19 data. Discretization for the Per-capita income parameter was done based on the two economic levels in the society. They are:
+* Lower-class - Per capita income < $48000
+* Upper/Middle class - Per capita income >= $48000
+Discretization for the birth rate parameter was done based on the average number of births in a county in the United States. They are:
+* Less than the average number of births (<500)
+* More than the average number of births (>=500)
+I used linear regression model to fit the collected data with the selected parameters. Interaction effects between the birth rate parameter and the income parameter were evaluated as follows:
