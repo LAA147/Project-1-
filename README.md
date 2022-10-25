@@ -1,4 +1,4 @@
-# Interpretation of Oregon State Data in 2020-
+# Interpretation of Oregon State Data in 2020
 **Introduction** - 
 I worked with Oregon state data for my project. I wanted to analyze how different parameters were effected during the first year of the Covid-19 pandemic (2020). I picked per capita annual income and birth rate (county-wise) as my two parameters to compare with my Covid-19 data and check the differences. 
 
