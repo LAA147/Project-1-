@@ -22,3 +22,9 @@ Discretization for the birth rate parameter was done based on the average number
 * More than the average number of births (>=500)
 
 I used linear regression model to fit the collected data with the selected parameters. Interaction effects between the birth rate parameter and the income parameter were evaluated as follows:
+Intercept : 762.5999
+New births dependence parameter : 1657.8
+Income dependence parameter : -298.0007
+Interaction slope : 6015.4272
+![image](https://user-images.githubusercontent.com/112515113/197843511-fbc3da01-522e-4c9d-9b2c-151491e06c58.png)
+
